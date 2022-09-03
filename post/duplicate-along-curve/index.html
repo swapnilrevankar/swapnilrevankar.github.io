@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme=""><head>
-    <title> Swapnil Revankar | Website of Swap </title>
+    <title> Swapnil Revankar | Duplicate objects along curve </title>
 	
 	
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-N894SKZPXB"></script>
@@ -43,10 +43,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="https://swapnilrevankar.github.io/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://swapnilrevankar.github.io/favicons/favicon-16x16.png">
 
-    <link rel="canonical" href="https://swapnilrevankar.github.io/">
+    <link rel="canonical" href="https://swapnilrevankar.github.io/post/duplicate-along-curve/">
 
     
-    <link rel="alternate" type="application/rss+xml" href="https://swapnilrevankar.github.io/index.xml" title="Website of Swap" />
     
     
     
@@ -67,8 +66,8 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://swapnilrevankar.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="Website of Swap"/>
-<meta name="twitter:description" content="Call me Swap"/>
+<meta name="twitter:title" content="Duplicate objects along curve"/>
+<meta name="twitter:description" content="In this post, I will describe how we can duplicate objects along a curve using Maya Mash."/>
 
 
     
@@ -126,7 +125,7 @@
         
         
             
-            <li><a class="current"
+            <li><a 
                    href="/"
                         
                    title="">Home</a></li>
@@ -156,67 +155,57 @@
 
     <div class="autopagerize_page_element">
         <div class="content">
-
     <div class="post  animated fadeInDown ">
-        
+        <div class="post-content">
+            
+            <div class="post-title">
+                <h3>Duplicate objects along curve</h3>
+                
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date"> Sat, Sep 3, 2022 
+                                           </span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time">2-minute read</span>
+                    </div>
+                
+            </div>
+
+            <p><img src="/Beads.png" alt="image alt text"></p>
+<p>In this post, I will describe how we can duplicate objects along a curve using Maya Mash.
+For the Dora Milaje model, I had to place the beads on a leather jacket. After a bit of research I came to the conclusion that Maya Mash would be a good way of doing that.</p>
+<p>I hope this article will inspire you to explore and discover new ways to address the modelling challenges you face every day.</p>
+<h1 id="create-curve">Create Curve</h1>
+<p>The first thing we need is a curve. There are different ways of creating curves, what I did is just selected edges on the mesh and used the option Modify &gt; Convert &gt; Polygon Edges To Curve. Once you have the curve you can smooth it depending on your needs by using the option in Modelling menu &gt; Curves &gt; Smooth.</p>
+<p><img src="/CreateCurve01.gif" alt="image alt text"></p>
+<h1 id="mash-network">Mash Network</h1>
+<p>We then select the object that we want to duplicate along a curve and create a Mash network by using the option FX Menu &gt; Mash &gt; Create Mash Network.</p>
+<p><img src="/MashNetwork01.gif" alt="image alt text"></p>
+<h1 id="add-curve-node">Add Curve Node</h1>
+<p>The Mash node gives you an option of adding curve node by using the option Add Node &gt;  Add Curve node, Then simply drag and drop the curve into the Input Curves tab.</p>
+<p><img src="/CurveNode01.gif" alt="image alt text"></p>
+<h1 id="mash-distribute">Mash Distribute</h1>
+<p>In the Mash_Distribute node set &ldquo;Distribution type&rdquo; to &ldquo;Initial State&rdquo;.</p>
+<p><img src="/MashDistribute01.gif" alt="image alt text"></p>
+<h1 id="mash-curve">Mash Curve</h1>
+<p>In the Mash_Curve node set “Step” to 1 and “Animation speed” to 0. I used “Offset Along Curve” to adjust the start position of the beads.</p>
+<p><img src="/MashCurve01.gif" alt="image alt text"></p>
+<h1 id="number-of-points">Number Of Points</h1>
+<p>In the Mash_Distribute node adjust “Number of points”.
+<img src="/NumberOfPoints01.gif" alt="image alt text"></p>
+<p>Thank you for reading! Hope you find some of the information useful to your work.</p>
+</div>
+        <div class="post-footer">
+            <div class="info">
+                
+                <span class="separator"><a class="tag" href="/tags/modelling/">modelling</a><a class="tag" href="/tags/mash/">mash</a><a class="tag" href="/tags/maya/">maya</a></span>
+
+            </div>
+        </div>
+
         
     </div>
 
-    
-    
-
-        <div class="post  animated fadeInDown ">
-            
-            <div class="post-title">
-                <h3><a href="/post/duplicate-along-curve/">Duplicate objects along curve</a>
-                </h3>
-            </div>
-            <div class="post-content">
-                <div class="p_part"><p>In this post, I will describe how we can duplicate objects along a curve using Maya Mash.</p></div>
-            </div>
-            <div class="post-footer">
-                <div class="meta">
-                    <div class="info">
-                        <em class="fas fa-calendar-day"></em>
-                            <span class="date"> Sat, Sep 3, 2022 
-                                             </span>
-                        
-                        <a class="tag"
-                                   href="/tags/modelling/">modelling</a><a class="tag"
-                                   href="/tags/mash/">mash</a><a class="tag"
-                                   href="/tags/maya/">maya</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    
-
-        <div class="post  animated fadeInDown ">
-            
-            <div class="post-title">
-                <h3><a href="/post/welcome/">Welcome to my Blog!!</a>
-                </h3>
-            </div>
-            <div class="post-content">
-                <div class="p_part"><p>After spending more than 10 years in the CG and Gaming industry, I finally decided to start my own blog 😄</p></div>
-            </div>
-            <div class="post-footer">
-                <div class="meta">
-                    <div class="info">
-                        <em class="fas fa-calendar-day"></em>
-                            <span class="date"> Sun, Jul 31, 2022 
-                                             </span>
-                        
-                        <a class="tag"
-                                   href="/tags/personal/">personal</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    
-    <div class="pagination">
-        
-    </div>
 
         </div>
     </div>
