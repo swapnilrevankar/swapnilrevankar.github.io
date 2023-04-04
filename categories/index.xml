@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Website of Swap</title>
-    <link>https://swapnilrevankar.github.io/categories/</link>
+    <link>http://www.techartspider.com/categories/</link>
     <description>Recent content in Categories on Website of Swap</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://swapnilrevankar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.techartspider.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
