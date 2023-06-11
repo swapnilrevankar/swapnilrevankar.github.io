@@ -1,19 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Website of Swap</title>
+    <title>Tags on Website of Swapnil Revankar</title>
     <link>https://techartspider.com/tags/</link>
-    <description>Recent content in Tags on Website of Swap</description>
+    <description>Recent content in Tags on Website of Swapnil Revankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>autocomplete</title>
+      <link>https://techartspider.com/tags/autocomplete/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/autocomplete/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://techartspider.com/tags/documentation/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/documentation/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pycharm</title>
+      <link>https://techartspider.com/tags/pycharm/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/pycharm/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://techartspider.com/tags/python/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/python/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>scripting</title>
+      <link>https://techartspider.com/tags/scripting/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/scripting/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>mash</title>
       <link>https://techartspider.com/tags/mash/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/tags/mash/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -22,7 +79,9 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/tags/maya/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -31,7 +90,9 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/tags/modelling/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -40,7 +101,152 @@
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/tags/personal/</guid>
-      <description></description>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>https://techartspider.com/tags/demo/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/demo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://techartspider.com/tags/shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/shortcode/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://techartspider.com/tags/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>https://techartspider.com/tags/redirecturl/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://techartspider.com/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://techartspider.com/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://techartspider.com/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/markdown/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://techartspider.com/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/privacy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://techartspider.com/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/shortcodes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://techartspider.com/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/text/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://techartspider.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/emoji/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://techartspider.com/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/thumbnail/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://techartspider.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/tags/index/</guid>
+      
+        <description></description>
+      
     </item>
     
   </channel>

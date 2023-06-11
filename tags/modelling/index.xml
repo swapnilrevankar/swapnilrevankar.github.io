@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>modelling on Website of Swap</title>
+    <title>modelling on Website of Swapnil Revankar</title>
     <link>https://techartspider.com/tags/modelling/</link>
-    <description>Recent content in modelling on Website of Swap</description>
+    <description>Recent content in modelling on Website of Swapnil Revankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,10 @@
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/post/duplicate-along-curve/</guid>
-      <description>In this post, I will describe how we can duplicate objects along a curve using Maya Mash.</description>
+      
+        <description>beads
+In this post, I will describe how we can duplicate objects along a curve using Maya Mash.</description>
+      
     </item>
     
   </channel>

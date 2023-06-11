@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>personal on Website of Swap</title>
+    <title>personal on Website of Swapnil Revankar</title>
     <link>https://techartspider.com/tags/personal/</link>
-    <description>Recent content in personal on Website of Swap</description>
+    <description>Recent content in personal on Website of Swapnil Revankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techartspider.com/post/welcome/</guid>
-      <description>After spending more than 10 years in the CG and Gaming industry, I finally decided to start my own blog 😄</description>
+      
+        <description>After more than a decade of immersing myself in the world of CG and gaming, I have finally made the decision to start my own blog.</description>
+      
     </item>
     
   </channel>
