@@ -6,7 +6,18 @@
     <description>Recent content in python on Website of Swapnil Revankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirror Controller Shapes Documentation</title>
+      <link>https://techartspider.com/post/mirror-controller-shape/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/post/mirror-controller-shape/</guid>
+      
+        <description>Are you tired of manually repositioning asymmetrical components to match control curves on the opposite side in Maya?</description>
+      
+    </item>
+    
     <item>
       <title>PyCharm autocomplete setup for MotionBuilder scripting </title>
       <link>https://techartspider.com/post/pycharm-motionbuilder/</link>
