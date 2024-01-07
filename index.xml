@@ -6,7 +6,18 @@
     <description>Recent content on Website of Swapnil Revankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training a Perceptron on Logical Operators</title>
+      <link>https://techartspider.com/post/perceptron-logical-operators/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/post/perceptron-logical-operators/</guid>
+      
+        <description>One of the fundamental concepts in machine learning domain is the perceptron, an algorithm inspired by the functioning of a neuron.</description>
+      
+    </item>
+    
     <item>
       <title>Mirror Controller Shapes Documentation</title>
       <link>https://techartspider.com/post/mirror-controller-shape/</link>

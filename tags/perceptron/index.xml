@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perceptron on Website of Swapnil Revankar</title>
+    <link>https://techartspider.com/tags/perceptron/</link>
+    <description>Recent content in perceptron on Website of Swapnil Revankar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://techartspider.com/tags/perceptron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training a Perceptron on Logical Operators</title>
+      <link>https://techartspider.com/post/perceptron-logical-operators/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techartspider.com/post/perceptron-logical-operators/</guid>
+      
+        <description>One of the fundamental concepts in machine learning domain is the perceptron, an algorithm inspired by the functioning of a neuron.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
